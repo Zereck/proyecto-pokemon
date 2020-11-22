@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: afde375dfea48fe4b927a35adf0d01fe, type: 3}
+  m_Name: VinculadorResources
+  m_EditorClassIdentifier: 
+  listaItem:
+  - ID: 1
+    nombreFichero: Items\VasijaBall
+  listaPokemon:
+  - ID: 4
+    nombreFichero: Pokemons\Pokemon1
+  - ID: 1
+    nombreFichero: Pokemons\Pokemon2
+  - ID: 2
+    nombreFichero: Pokemons\Pokemon3
+  listaAtaque:
+  - ID: 1
+    nombreFichero: Ataques\Placaje
+  - ID: 2
+    nombreFichero: Ataques\Placaje 1
+  - ID: 3
+    nombreFichero: Ataques\Placaje 2
+  - ID: 4
+    nombreFichero: Ataques\Placaje 3
+  - ID: 5
+    nombreFichero: Ataques\Placaje 4
+  listaSonidos:
+  - ID: 6
+    nombreFichero: Audios\SonidoAtaque1
+  - ID: 7
+    nombreFichero: Audios\SonidoAtaque2
+  - ID: 8
+    nombreFichero: Audios\SonidoAtaque3
+  - ID: 5
+    nombreFichero: Audios\SonidoCombateSacarPokemon
+  - ID: 3
+    nombreFichero: Audios\SonidoCurarPokemon
+  - ID: 0
+    nombreFichero: Audios\SonidoEntrarPuerta
+  - ID: 2
+    nombreFichero: Audios\SonidoHablarNPC
+  - ID: 1
+    nombreFichero: Audios\SonidoPulsarBotonUI
+  - ID: 9
+    nombreFichero: Audios\SonidoSubirNivel
+  - ID: 4
+    nombreFichero: Audios\SonidoSueloSaltable
+  listaMusica:
+  - ID: 4
+    nombreFichero: Audios\MusicaCiudad1
+  - ID: 3
+    nombreFichero: Audios\MusicaCombate
+  - ID: 1
+    nombreFichero: Audios\MusicaPuebloAlfalfa
+  - ID: 2
+    nombreFichero: Audios\MusicaRuta1

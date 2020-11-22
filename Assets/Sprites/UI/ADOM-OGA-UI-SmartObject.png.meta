@@ -1,0 +1,682 @@
+fileFormatVersion: 2
+guid: deef8e17eb90ddc4397f590140193345
+timeCreated: 1526632754
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ADOM-OGA-UI-SmartObject_0
+    21300002: ADOM-OGA-UI-SmartObject_1
+    21300004: ADOM-OGA-UI-SmartObject_2
+    21300006: ADOM-OGA-UI-SmartObject_3
+    21300008: ADOM-OGA-UI-SmartObject_4
+    21300010: ADOM-OGA-UI-SmartObject_5
+    21300012: ADOM-OGA-UI-SmartObject_6
+    21300014: ADOM-OGA-UI-SmartObject_7
+    21300016: ADOM-OGA-UI-SmartObject_8
+    21300018: ADOM-OGA-UI-SmartObject_9
+    21300020: ADOM-OGA-UI-SmartObject_10
+    21300022: ADOM-OGA-UI-SmartObject_11
+    21300024: ADOM-OGA-UI-SmartObject_12
+    21300026: ADOM-OGA-UI-SmartObject_13
+    21300028: ADOM-OGA-UI-SmartObject_14
+    21300030: ADOM-OGA-UI-SmartObject_15
+    21300032: ADOM-OGA-UI-SmartObject_16
+    21300034: ADOM-OGA-UI-SmartObject_17
+    21300036: ADOM-OGA-UI-SmartObject_18
+    21300038: ADOM-OGA-UI-SmartObject_19
+    21300040: ADOM-OGA-UI-SmartObject_20
+    21300042: ADOM-OGA-UI-SmartObject_21
+    21300044: ADOM-OGA-UI-SmartObject_22
+    21300046: ADOM-OGA-UI-SmartObject_23
+    21300048: ADOM-OGA-UI-SmartObject_24
+    21300050: ADOM-OGA-UI-SmartObject_25
+    21300052: ADOM-OGA-UI-SmartObject_26
+    21300054: ADOM-OGA-UI-SmartObject_27
+    21300056: ADOM-OGA-UI-SmartObject_28
+    21300058: ADOM-OGA-UI-SmartObject_29
+    21300060: ADOM-OGA-UI-SmartObject_30
+    21300062: ADOM-OGA-UI-SmartObject_31
+    21300064: ADOM-OGA-UI-SmartObject_32
+    21300066: ADOM-OGA-UI-SmartObject_33
+    21300068: ADOM-OGA-UI-SmartObject_34
+    21300070: ADOM-OGA-UI-SmartObject_35
+    21300072: ADOM-OGA-UI-SmartObject_36
+    21300074: ADOM-OGA-UI-SmartObject_37
+    21300076: ADOM-OGA-UI-SmartObject_38
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1277
+        width: 833
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_1
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1435
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1429
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_3
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1428
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1371
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_5
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 1370
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1371
+        width: 531
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_7
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1316
+        width: 327
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1243
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_9
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1247
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_10
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 1257
+        width: 327
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1232
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1231
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_13
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 743
+        width: 841
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_14
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1196
+        width: 329
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_15
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1098
+        width: 578
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_16
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 953
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_17
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 952
+        width: 578
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_18
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 951
+        width: 67
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_19
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 818
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_20
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 837
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_21
+      rect:
+        serializedVersion: 2
+        x: 1276
+        y: 837
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 741
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_23
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 733
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_24
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 717
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_25
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 731
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 181
+        width: 821
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_27
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 685
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_28
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 669
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_29
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 590
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 438
+        width: 833
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_31
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 589
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_32
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 533
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_33
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 532
+        width: 5
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_34
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 374
+        width: 34
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_35
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 374
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_36
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 179
+        width: 6
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_37
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 171
+        width: 857
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ADOM-OGA-UI-SmartObject_38
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 745
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8b71d398879931b4391cd7b1376bcf8a, type: 3}
+  m_Name: Ajustes
+  m_EditorClassIdentifier: 
+  velocidadAndar: 0.5
+  velocidadCorrer: 0.8
+  tamanioCasilla: 0.16
+  nombreParametroAnimacionSaltar: Saltar
+  pasosMinimosHastaElProximoCombate: 3
+  pasosMaximosHastaElProximoCombate: 21
+  teclaCorrer: 304
+  teclaInteractuar: 32
+  teclaAbrirMenu: 99
+  tagInteraccion: Interactivo
+  layerColision:
+    serializedVersion: 2
+    m_Bits: 512
+  tagPersonaje: Player
+  layerPersonaje:
+    serializedVersion: 2
+    m_Bits: 256
+  tagSueloSaltable: SueloSaltable
+  layerHierba:
+    serializedVersion: 2
+    m_Bits: 1024
+  velocidadMensajeDeDialogo: 0.0257
+  maximasLetrasPorVentanaDeDialogo: 130
+  velocidadOscurecerPantallaTeletransporte: 0.04
+  velocidadAclararPantallaTeletransporte: 0.04
+  velocidadIncrementoVolumenNuevaMusica: 0.5
+  velocidadDecrementoVolumenAntiguaMusica: 2
+  danioCriticos: 1.5
+  probabilidadDeDespertarseAlAtacar: 50
+  probabilidadDeAutoGolpearseAlEstarConfuso: 30
+  probabilidadDeEliminarseLaConfusionPorTurno: 30
+  porcentajeDeSaludPorEstarConfuso: 5
+  probabilidadDeQuedarseParalizado: 50
+  porcentajeDeSaludPorEstarEnvenenado: 5
+  velocidadDeMovimientoDeBarrasDeSaludEnCombate: 0.1653
+  tiempoDeEsperaUltimaVentanaDialogoEnCombateSiNoSeLeeElTeclado: 1
+  multiplicadorExperienciaBase: 50
+  segundosParaMoverNPC: 1.6
+  velocidadAnimacionNPC: 0.374
+  palabraParaReemplazarEnLosTexto1: <remplazo1>
+  palabraParaReemplazarEnLosTexto2: <remplazo2>
+  textoPokemonInicialMensajeConfirmacion: "\xBFQuieres a <remplazo1>?"
+  textoPokemonInicialMensajeTrasConfirmar: "\xA1Enhorabuena! Has conseguido a <remplazo1>"
+  textoPokemonSalvajeAparecio: "Un <remplazo1> salvaje apareci\xF3"
+  textoEntrenadorTeDesafia: "<remplazo1> te desaf\xEDa a un duelo"
+  textoJugadorEnviaPokemon: Adelante <remplazo1>
+  textoEntrenadorEnviaPokemon: "<remplazo1> env\xEDa a <remplazo2>"
+  textoPokemonAtaca: <remplazo1> usa <remplazo2>
+  textoPokemonFallaAtaque: Ha fallado
+  textoPokemonInmuneAlAtaque: No le afecta
+  textoPokemonAtaque25PorcientoDanio: No es muy efectivo
+  textoPokemonAtaque50PorcientoDanio: Es muy poco efectivo
+  textoPokemonAtaque150PorcientoDanio: Es muy efectivo
+  textoPokemonAtaque200PorcientoDanio: Es super efectivo
+  textoEntrenadorVencido: Has derrotado a <remplazo1> obtienes <remplazo2> monedas
+  textoCuandoConsigueItem: Has conseguido <remplazo1> x <remplazo2>
+  textoCombatePerdido: Tus monstruos han sido derrotados. Has perdido <remplazo1>
+    monedas
+  textoPokemonEnemigoDerrotado: Has derrotado a <remplazo1> obtienes <remplazo2> puntos
+    de experiencia
+  textoPokemonSubeNivel: <remplazo1> ha subido al nivel <remplazo2>
+  textoPokemonVaEvolucionar: "<remplazo1> est\xE1 evolucionando"
+  textoPokemonHaEvolucionado: <remplazo1> ha evolucionado a <remplazo2>
+  textoPokemonCapturado: Has capturado a <remplazo1>
+  textoPokemonCapturadoEnviadoAlPC: No hay espacio en tu equipo, <remplazo1> ha sido
+    enviado al PC
+  textoConsigueEscaparPokemonSalvaje: Has escapado del combate
+  textoNoConsigueEscaparPokemonSalvaje: No has podido escapar del combate
+  textoRetirarPokemonJugador: "\xA1Vuelve <remplazo1>!"
+  textoPokemonDerrotado: <remplazo1> se ha debilitado
+  textoGuardarPartida: "\xBFQuieres guardar la partida?"
+  textoPartidaGuardada: Los datos de la partida han sido guardados
+  textoNuevoAtaqueAprendido: <remplazo1> ha aprendido <remplazo2>
+  textoPreguntarAprenderNuevoAtaque: <remplazo1> quiere aprender <remplazo2> pero
+    ya tiene 4 ataques. Selecciona un ataque para sustituirlo
+  textoConfirmarAprenderNuevoAtaque: "\xBFQuieres sustituir <remplazo1> por <remplazo2>?"
+  textoConfirmarNoAprenderNuevoAtaque: "\xBFSeguro que no quieres aprender el ataque
+    <remplazo1>?"
+  PokedexNombrePokemonCuandoNoLoHavistoNiCapturado: ???????
+  iconoPokemonVisto: {fileID: 0}
+  iconoPokemonCapturado: {fileID: 0}

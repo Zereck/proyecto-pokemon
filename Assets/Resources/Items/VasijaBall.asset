@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51871b517f8e46349a604d38f4698cea, type: 3}
+  m_Name: VasijaBall
+  m_EditorClassIdentifier: 
+  ID: 1
+  nombre: Vasija Ball
+  descripcion: "Una vasija m\xE1gica que permite capturar y dominar criaturas"
+  precioEnTienda: 200
+  tipoDeItem: 1
+  "ense\xF1aAtaque": 1
+  cantidadSanacion: 0
+  restaurarEstadoAlterado: 0
+  posibilidadCaptura: 20
